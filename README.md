@@ -36,7 +36,7 @@ To run this app, you'll need:
 dynamo-pentester
 
 ## License
-This project is licensed under the [] License - see the LICENSE.md file for details.
+This project is licensed under the [MIT License] License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 Thanks to the PyQt community for providing a powerful GUI framework.
