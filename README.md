@@ -42,7 +42,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Thanks to the PyQt community for providing a powerful GUI framework.
 
 ## Customizing the Style
-You can customize the application's styling by modifying the included CSS file (styles.css).
+You can customize the application's styling by modifying the included CSS file (theme.css).
 
 ## Contact
 For questions or feedback, please contact: giveawaynino143@gmail.com
